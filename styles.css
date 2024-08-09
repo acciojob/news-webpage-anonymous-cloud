@@ -34,7 +34,7 @@ body {
    text-align: center;
     background-color: white;
     padding: 20px;
-    width: 30%;
+    width: 100px;
     border-radius: 10px;
 }
 
@@ -42,6 +42,4 @@ body {
     margin-top: 0;
 }
 
-.pictorial-news-section h3, .latest-news-section h3, .main-article h2 {
-    text-align: center;
-}
+
