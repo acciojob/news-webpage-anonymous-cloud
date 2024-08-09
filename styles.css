@@ -23,6 +23,7 @@ body {
     padding: 20px;
     width: 30%;
     border-radius: 10px;
+	 text-align: center;
 }
 
 .latest-news-section ul {
@@ -32,7 +33,7 @@ body {
 }
 
 .pictorial-news-section img {
-    text-align: center;
+   
     background-color: white;
     padding: 20px;
     width: 100px;
