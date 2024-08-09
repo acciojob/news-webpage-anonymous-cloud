@@ -27,6 +27,7 @@ body {
 
 .latest-news-section ul {
     list-style-type: disc;
+	 text-align: center;
     padding-left: 20px;
 }
 
@@ -40,5 +41,6 @@ body {
 
 .main-article h2 {
     margin-top: 0;
+	 text-align: center;
 }
 
